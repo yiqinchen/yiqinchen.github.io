@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "yiqnichen's blog"
+name: "伊堇宸的花园"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号：程序员亦堇辰  分享工作经验 | 学习内容"
+description: "生活 | 工作 | 学习 | 爱好"
 
 #
 # Flags below are optional
@@ -55,7 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+footer-text: Copyright (c) 2023 ghost17x
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
